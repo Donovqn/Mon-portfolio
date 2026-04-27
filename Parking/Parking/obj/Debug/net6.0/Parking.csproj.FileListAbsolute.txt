@@ -1,0 +1,14 @@
+C:\Users\SNIR\source\repos\Parking\bin\Debug\net6.0\Parking.exe
+C:\Users\SNIR\source\repos\Parking\bin\Debug\net6.0\Parking.deps.json
+C:\Users\SNIR\source\repos\Parking\bin\Debug\net6.0\Parking.runtimeconfig.json
+C:\Users\SNIR\source\repos\Parking\bin\Debug\net6.0\Parking.dll
+C:\Users\SNIR\source\repos\Parking\bin\Debug\net6.0\Parking.pdb
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\Parking.AssemblyInfoInputs.cache
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\Parking.AssemblyInfo.cs
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\Parking.csproj.CoreCompileInputs.cache
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\Parking.dll
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\refint\Parking.dll
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\Parking.pdb
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\Parking.genruntimeconfig.cache
+C:\Users\SNIR\source\repos\Parking\obj\Debug\net6.0\ref\Parking.dll
